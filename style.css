@@ -192,3 +192,8 @@ iframe {
     box-shadow: var(--normal-shadow);
     backdrop-filter: var(--blur-filter);
    }
+
+   #viewer-container {
+    width: 100%;
+    height: 100vh;
+}
