@@ -121404,8 +121404,6 @@ class IfcViewerAPI {
     }
 }
 
-// import { projects } from "./projects.js";
-
 // Get the current project ID from the URL parameter
 const currentUrl = window.location.href; 
 const url = new URL(currentUrl);
